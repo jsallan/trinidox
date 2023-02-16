@@ -12,6 +12,8 @@ Quote from the tabloids: *The comfort is through the roof!*
 - blackpill STM32 from weact
 
 ## Part List
+| **Item** | **Link** |
+|----------|----------|
 | 34mm trackball | ![Amazon](https://www.amazon.ca/Perixx-PERIPRO-303-1-34-Inches-Trackball/dp/B08DD7ZDTG?ref_=ast_sto_dp&th=1&psc=1) |
 | 2.5mm ceramic bearings | ![AliExpress](https://www.aliexpress.com/item/4000829130283.html?spm=a2g0o.order_list.order_list_main.46.4b241802MhOXgN) |
 | brass inserts M3 x D5.0 x L4.0 | ![AliExpress](https://www.aliexpress.com/item/1005002526998853.html?spm=a2g0o.order_list.order_list_main.31.4b241802MhOXgN) |
