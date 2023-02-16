@@ -22,6 +22,7 @@ Quote from the tabloids: *The comfort is through the roof!*
 | USB-C interlink cable | ![AliExpress](https://www.aliexpress.com/item/1005002811739151.html?spm=a2g0o.order_list.order_list_main.117.4b241802MhOXgN) |
 
 Optional
+| **Item** | **Link** |
 |-----|------|
 | magnetic adapter and cable | ![AliExpress](https://www.aliexpress.com/item/1005002356514892.html?spm=a2g0o.productlist.main.101.a40258d2qisaf7&algo_pvid=bce9f6bd-c4de-4191-af48-e371939d2d43&algo_exp_id=bce9f6bd-c4de-4191-af48-e371939d2d43-50&pdp_ext_f=%7B%22sku_id%22%3A%2212000020267220880%22%7D&pdp_npi=3%40dis%21CAD%216.61%213.3%21%21%21%21%21%402102169316765274064727262d06d6%2112000020267220880%21sea%21CA%21198108290&curPageLogUid=2Shq9g5zEcQu) |
 
