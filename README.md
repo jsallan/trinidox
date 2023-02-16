@@ -27,3 +27,9 @@ Optional
 | magnetic adapter and cable | ![AliExpress](https://www.aliexpress.com/item/1005002356514892.html?spm=a2g0o.productlist.main.101.a40258d2qisaf7&algo_pvid=bce9f6bd-c4de-4191-af48-e371939d2d43&algo_exp_id=bce9f6bd-c4de-4191-af48-e371939d2d43-50&pdp_ext_f=%7B%22sku_id%22%3A%2212000020267220880%22%7D&pdp_npi=3%40dis%21CAD%216.61%213.3%21%21%21%21%21%402102169316765274064727262d06d6%2112000020267220880%21sea%21CA%21198108290&curPageLogUid=2Shq9g5zEcQu) |
 
 You'll also need a PMW3360 sensor board. You can either purchase one from tindie, or ![make your own](https://github.com/Ariamelon/Ogen).  
+
+## Pictures
+![trinidox](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230209_172441.jpg) 
+![trinidox](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230209_172456.jpg) 
+![trinidox](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230209_172510.jpg) 
+
