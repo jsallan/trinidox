@@ -12,7 +12,7 @@ Quote from the tabloids: *The comfort is through the roof!*
 - blackpill STM32 from weact
 
 ## Print List
-This assume you want a trackball on the right side and no trackball on the left side...so modify to suit your needs.
+The list below assumes you want a trackball on the right side and no trackball on the left side...so modify to suit your needs.
 | **Item** | **Mirrored?** | **Qty** |
 |----------|----------|---------|
 | [left case](https://github.com/jsallan/trinidox/blob/main/stl/trinidox.stl) | Yes | 1 |
