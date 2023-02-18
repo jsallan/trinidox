@@ -24,16 +24,19 @@ The list below assumes you want a trackball on the right side and no trackball o
 ## Part List
 | **Item** | **Link** |
 |----------|----------|
+| WeAct blackpill | [AliExpress](https://www.aliexpress.com/item/1005001456186625.html) |
 | 34mm trackball | [Amazon](https://www.amazon.ca/Perixx-PERIPRO-303-1-34-Inches-Trackball/dp/B08DD7ZDTG?ref_=ast_sto_dp&th=1&psc=1) |
 | 2.5mm ceramic bearings | [AliExpress](https://www.aliexpress.com/item/4000829130283.html) |
 | brass inserts M3 x D5.0 x L4.0 | [AliExpress](https://www.aliexpress.com/item/1005002526998853.html) |
 | torx screws 50pcs M3, 8mm | [AliExpress](https://www.aliexpress.com/item/1005002369233576.html) |
 | USB-C breakout board | [AliExpress](https://www.aliexpress.com/item/1005003245060475.html) | 
 | USB-C interlink cable | [AliExpress](https://www.aliexpress.com/item/1005002811739151.html) |
+| Furniture bumpers | [AliExpress](https://www.aliexpress.com/item/1005003044229837.html) |
 
 Optional
 | **Item** | **Link** |
 |-----|------|
+| Short dupont cables | [AliExpress](https://www.aliexpress.com/item/4000203371860.html) |
 | magnetic adapter and cable | [AliExpress](https://www.aliexpress.com/item/1005002356514892.html) |
 
 You'll also need a PMW3360 sensor board. You can either purchase one from tindie, or ![make your own](https://github.com/Ariamelon/Ogen).  
