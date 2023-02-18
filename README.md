@@ -22,6 +22,7 @@ The list below assumes you want a trackball on the right side and no trackball o
 | [plate](https://github.com/jsallan/trinidox/blob/main/stl/plate.stl) | 1-yes and 1-no  | 2 |
 
 ## Part List
+### Required
 | **Item** | **Link** |
 |----------|----------|
 | WeAct blackpill | [AliExpress](https://www.aliexpress.com/item/1005001456186625.html) |
@@ -33,16 +34,30 @@ The list below assumes you want a trackball on the right side and no trackball o
 | USB-C interlink cable | [AliExpress](https://www.aliexpress.com/item/1005002811739151.html) |
 | Furniture bumpers | [AliExpress](https://www.aliexpress.com/item/1005003044229837.html) |
 
-Optional
+You'll also need a PMW3360 sensor board. You can either purchase one from tindie, or ![make your own](https://github.com/Ariamelon/Ogen).  
+
+### Optional
 | **Item** | **Link** |
 |-----|------|
 | Short dupont cables | [AliExpress](https://www.aliexpress.com/item/4000203371860.html) |
 | magnetic adapter and cable | [AliExpress](https://www.aliexpress.com/item/1005002356514892.html) |
 
-You'll also need a PMW3360 sensor board. You can either purchase one from tindie, or ![make your own](https://github.com/Ariamelon/Ogen).  
 
 ## Pictures
+### Typing position
+![Typing position](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230217_222821.jpg) 
+
+### Trackball position
+![Trackball position](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230217_222818.jpg) 
+
+I use the top row for mouse keys which works out well with the trackball position.
+
+### General pictures
 ![trinidox](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230209_172441.jpg) 
 ![trinidox](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230209_172456.jpg) 
 ![trinidox](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230209_172510.jpg) 
+![trinidox](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230217_222926.jpg)
+![trinidox](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230217_222947.jpg)
+![trinidox](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230217_223034.jpg)
+
 
