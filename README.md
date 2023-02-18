@@ -59,5 +59,4 @@ I use the top row for mouse keys which works out well with the trackball positio
 ![trinidox](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230217_222926.jpg)
 ![trinidox](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230217_222947.jpg)
 ![trinidox](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230217_223034.jpg)
-
-
+![trinidox](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230216_213750.jpg)
