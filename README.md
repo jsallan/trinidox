@@ -12,7 +12,7 @@ Quote from the tabloids: *The comfort is through the roof!*
 - blackpill STM32 from weact
 
 ## Print List
-The list below assumes you want a trackball on the right side and no trackball on the left side...so modify to suit your needs.
+The list below assumes you want to build a 4x5 variant with a trackball on the right side and no trackball on the left side...so modify to suit your needs.
 | **Item** | **Mirrored?** | **Qty** |
 |----------|----------|---------|
 | [left case](https://github.com/jsallan/trinidox/blob/main/stl/trinidox.stl) | Yes | 1 |
@@ -20,6 +20,8 @@ The list below assumes you want a trackball on the right side and no trackball o
 | [bearing holder](https://github.com/jsallan/trinidox/blob/main/stl/tball_bearing_holder%20v14.stl) | No | 3 |
 | [blackpill holder](https://github.com/jsallan/trinidox/blob/main/stl/blackpill_tray.stl) | No | 2 |
 | [plate](https://github.com/jsallan/trinidox/blob/main/stl/plate.stl) | 1-yes and 1-no  | 2 |
+
+If you want to build a 5x6 variant, the print list is essentially the same, but use the plate, left case and right case in [this](https://github.com/jsallan/trinidox/blob/main/stl/5x6) folder.
 
 ## Part List
 ### Required
@@ -34,7 +36,7 @@ The list below assumes you want a trackball on the right side and no trackball o
 | USB-C interlink cable | [AliExpress](https://www.aliexpress.com/item/1005002811739151.html) |
 | Furniture bumpers | [AliExpress](https://www.aliexpress.com/item/1005003044229837.html) |
 
-You'll also need a PMW3360 sensor board. You can either purchase one from tindie, or ![make your own](https://github.com/Ariamelon/Ogen).  
+You'll also need a PMW3360 sensor board. You can either purchase one from tindie, or [make your own](https://github.com/Ariamelon/Ogen).  
 
 ### Optional
 | **Item** | **Link** |
