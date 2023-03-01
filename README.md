@@ -1,6 +1,6 @@
 ![trinidox](https://raw.githubusercontent.com/jsallan/trinidox/main/images/20230209_172441_cropped.jpg) 
 # Trinidox
-A 4x5 dactyl manuform keyboard with integrated trackball.
+A dactyl manuform keyboard with integrated trackball. The images and build description is for the 4x5 variant. A 5x6 variant exists [here](https://github.com/jsallan/trinidox/blob/main/stl/5x6) but is yet untested.
 
 Quote from the tabloids: *The comfort is through the roof!*
 
